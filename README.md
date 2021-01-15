@@ -1,2 +1,2 @@
 # Sample-NodeJs-App-Docker
-Creating Image and Containerize the demo  app
+Creating Image and Containerize the demo  app with docker
